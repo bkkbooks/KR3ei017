@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei017/jc/v1/juan/0
+seq: 0
+front:
+  text: 自序古云寧醫十男子莫醫一婦人誠以女病倍於男子而更多不可名言之隱也其居富貴之地者更面藏帳幃臂蓋綺紈醫者望聞既難切脈亦無從仔細故女科益難從事焉余幼殫精舉業亦究心岐黃緣歷試不遇遂以方藥應世數十年來窮源竟委上採前賢之著述旁録時人之議論成痢症匯參一書既為四方君子稱評勸授梓人茲復念女病難醫即平日所輯前哲要語分門別類匯為一帙顏曰女科切要質諸二三同志俱云語簡而明此書一出將臨症者俱可唾手取驗而至難醫者從此不難亟當傳世以為普濟之資因不揣固陋勉付剞劂云時乾隆癸巳小眷梅溪吳道源題年七十有五
+  hash: sha256:8491800f01cb6a60f95464e5993d0eaacc031b40d291cd51d16e9df1eed0b6e2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei017_jc_000-d2.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 女科切要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei017.xml
+hash: sha256:73a9af2681aa149374408d5d443f689dca4b951d836c028f47f9a0f555e7cc8a
